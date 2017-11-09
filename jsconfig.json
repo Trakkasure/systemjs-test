@@ -1,0 +1,14 @@
+{
+    "experimentalDecorators": true,
+    "compilerOptions": {
+        "target": "ES6",
+        "experimentalDecorators": true,
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
